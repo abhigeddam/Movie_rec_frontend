@@ -1,0 +1,28 @@
+.auth-toggle {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+  color: #555;
+}
+
+.auth-toggle button {
+  background-color: transparent;
+  border: none;
+  color: #007bff; /* Blue color for the button text */
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  padding: 0;
+}
+.error-message {
+  text-align: center;
+  margin: 20px auto;
+  color: #e74c3c; /* Red color for errors */
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.auth-toggle button:hover {
+  color: #0056b3; /* Darker blue on hover */
+}

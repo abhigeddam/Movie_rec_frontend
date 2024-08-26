@@ -1,0 +1,12 @@
+/* Global styles */
+
+body {
+  background-color: #212529;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #222;
+  padding: 10px;
+}
